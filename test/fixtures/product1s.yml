@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  Grapes: MyString
+  body: MyString
+  2: MyString
+  lbs: MyString
+  of: MyString
+  freshly: MyString
+  picked: MyString
+  purple: MyString
+  grapes: MyString
+
+two:
+  title: MyString
+  Grapes: MyString
+  body: MyString
+  2: MyString
+  lbs: MyString
+  of: MyString
+  freshly: MyString
+  picked: MyString
+  purple: MyString
+  grapes: MyString
